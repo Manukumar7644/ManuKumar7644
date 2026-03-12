@@ -1,18 +1,22 @@
-# 💫 Hi 👋, I'm Manu Kumar
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Manu Kumar  
 
-Email Me 👉 ✉️ **manuk0267@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+☕ **Java Developer | Backend Developer | Spring Boot Enthusiast**  
+🚀 Passionate about building scalable backend applications and learning modern Java technologies.
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- <!-- Snake Game Repo View -->
+📧 **Email:** manuk0267@gmail.com  
+🤝 Feel free to reach out for **Collaboration, Projects, or Tech Discussions.**
 
+## 🚀 About Me
+
+- 🔭 **Currently Working On:** Java & Spring Boot Projects  
+- 🌱 **Currently Learning:** Spring Boot, Hibernate  
+- 👯 **Looking to Collaborate On:** Java Backend Projects / Open Source  
+- 🤔 **Looking for Help With:** Advanced Spring & MVC Architecture 
+- 💬 **Ask Me About:** Java, Spring Boot, Hibernate, REST APIs  
+- 📫 **Reach Me At:** manuk0267@gmail.com  
+- ⚡ **Fun Fact:** I enjoy solving problems using Java ☕
+
+ <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
